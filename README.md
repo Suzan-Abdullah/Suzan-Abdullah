@@ -1,6 +1,9 @@
  <h1> 👋 Hi, I’m Suzan Abdullah </h1>
+
 - 👀 I’m interested in Web Development.
+
 - 🌱 I’m currently learning Front-end develpment.
+
 - 💞️ I’m looking to collaborate with another Web Develpers.
 
 <!---
